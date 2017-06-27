@@ -18,9 +18,7 @@ You can use the cf CLI to perform all commands on apps deployed to PCF.
 
 ## Deploy the Sample App
 
-Now that you have the cf CLI installed, you are really close to deploying the sample app.
-
-This sample app is built with .NET Core to get you up and running as quickly as possible.
+Now that you have the cf CLI installed, you are really close to deploying the sample .NET app.
 
 Download the app with git:
 
