@@ -44,9 +44,7 @@ Push the app to PWS:
 
 `cf push`
 
-Open the sample app in your browser:
-
-![app urls](images/example-url.png)
+In the push summary, find the url for the application and open the sample app in your browser.
 
 ## View the Logs
 
